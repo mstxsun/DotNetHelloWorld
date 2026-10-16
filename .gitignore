@@ -1,0 +1,19 @@
+# Visual Studio and .NET build output
+.vs/
+[Bb]in/
+[Oo]bj/
+artifacts/
+TestResults/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Local publishing profiles, credentials, and certificates
+**/Properties/PublishProfiles/
+.env
+.env.*
+*.pfx
+*.p12
+*.pem
+*.key
